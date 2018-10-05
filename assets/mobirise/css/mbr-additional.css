@@ -10459,6 +10459,11 @@ body {
 .cid-r5mw38ZDr9 .mbr-section-btn {
   text-align: left;
 }
+@media (max-width: 768px) {
+  .cid-r5mw38ZDr9 .img-wrap {
+    display: none;
+  }
+}
 .cid-r5mw5G95qg {
   padding-top: 195px;
   padding-bottom: 210px;
